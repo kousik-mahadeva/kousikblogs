@@ -1,0 +1,16 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: Kousik's Blog
+theme: PaperMod
+
+params:
+  defaultTheme: white
+  disableThemeToggle: true
+
+  homeInfoParams:
+    Title: "Welcome to My Blog!"
+    Content: >
+      Space to write My Ruminations and Empirical experiences. 
+      
+      
+      Fell free to explore and share what you feel about them!
