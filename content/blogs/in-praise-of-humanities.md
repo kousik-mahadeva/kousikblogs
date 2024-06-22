@@ -1,7 +1,7 @@
 +++
 title = 'In Praise of Humanities'
 date = 2024-06-22T11:41:39+05:30
-draft = true
+draft = false
 disableMenu = true
 +++
 All through my engineering degree, I believed that world has already been figured out. We could Objectify any problem and solve it. Policy-makers/economist/people-who-control-how-we-should-live-our-life knew everything to take right decision.
