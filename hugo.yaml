@@ -35,6 +35,6 @@ params:
     imageHeight: 150
     buttons:
       - name: Blogs
-        url: blogs
+        url: "./blogs"
       - name: About Me
         url: myself
