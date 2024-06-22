@@ -29,12 +29,12 @@ params:
     enabled: true
     title: "Hi! This is Kousik"
     subtitle: "Living by maxim of 'The unexamined life is not worth living'"
-    imageUrl: "/profile/profilepic.jpeg"
+    imageUrl: "./profile/profilepic.jpeg"
     imageTitle: "will add soon"
     imageWidth: 150
     imageHeight: 150
     buttons:
       - name: Blogs
-        url: "/blogs/"
+        url: blogs
       - name: About Me
-        url: "/myself"
+        url: myself
