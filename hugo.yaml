@@ -1,4 +1,4 @@
-baseURL: https://kousik-mahadeva.github.io/kousikblogs/
+baseURL: "https://kousik-mahadeva.github.io/kousikblogs/"
 languageCode: en-us
 title: Kousik's Blog
 theme: PaperMod
