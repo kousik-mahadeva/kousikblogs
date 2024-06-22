@@ -3,9 +3,18 @@ languageCode: en-us
 title: Kousik's Blog
 theme: PaperMod
 
+
+menu:
+  main:
+    - identifier: resume
+      name: Resume
+      url: /profile/resume.pdf
+      weight: 10
+
 params:
   defaultTheme: white
   disableThemeToggle: true
+  hideFooter: true
 
   homeInfoParams:
     Title: "Welcome to My Blog!"
@@ -14,3 +23,18 @@ params:
       
       
       Fell free to explore and share what you feel about them!
+
+
+  profileMode:
+    enabled: true
+    title: "Hi! This is Kousik"
+    subtitle: "Living by maxim of 'The unexamined life is not worth living'"
+    imageUrl: "/profile/profilepic.jpeg"
+    imageTitle: "will add soon"
+    imageWidth: 150
+    imageHeight: 150
+    buttons:
+      - name: Blogs
+        url: "/blogs/"
+      - name: About Me
+        url: "/myself"
