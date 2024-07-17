@@ -1,6 +1,6 @@
 +++
 title = 'Art of Hard Work'
-date = 2024-07-15T15:17:39+05:30
+date = 2024-07-17T15:48:39+05:30
 draft = false
 disableMenu = true
 +++
