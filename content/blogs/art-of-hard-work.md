@@ -7,12 +7,12 @@ disableMenu = true
 These are some personal truths on how hard work occurs. My conviction is hard work is absolutely a trait of Human body and Human Instinct.
 Intellect has very little space in this.
 
-First experience is from my 20 Day Boxing class. I had a wound on the knuckles. Punches were painful and I could not do it very well.
-Suddenly after few people made it in , I wanted to be best and Started punching. This time my survival instinct took up. 'You lose if you could not punch 25' was the mindset and I was able to get 25 punches without much pain.
+My first experience is from a short stint at boxing. I had a wound on the knuckles. Punches were painful and I could not do it very well.
+Suddenly after few people made it in and were fighting in the ring, I wanted to be best and Started punching. This time my survival instinct took up. 'You lose if you could not punch 25 times' was the mindset and I was able to get 25 punches without much pain.
 Pain was not even in my brain. When you turn on your Lizard brain, Miracle happen!
 
-I found similar case in world war memoirs, Think of this problem. How to get men fighting courageous in spite of blood,death and injuries.
-Lot of military theorist answer was 'Survival Instincts'. There are cases where Leader burnt the boats they took for the ride. The soldiers were shown a reality. There is one way to stay alive, Kill 'them'.
+I found similar cases in world war memoirs. How to get men fighting courageously in spite of blood,death and injuries.
+Lot of military theorist answer was 'Survival Instincts'. There are cases where Leader burnt the boats they took for the ride. The soldiers were given a reality. There is one way to stay alive, Kill 'them'.
 Survival Instincts created courage of miracles. There are reddit posts of lot of Army veteran saying there were not born courageous. Circumstances build them.
 
 This is also reflected in a sense that lot of hard workers have huge ego. My Idea is ego creates sufficient crises to make them work hard
