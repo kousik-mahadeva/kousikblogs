@@ -12,6 +12,7 @@ menu:
       weight: 10
 
 params:
+  env: production
   defaultTheme: white
   disableThemeToggle: true
   hideFooter: true
