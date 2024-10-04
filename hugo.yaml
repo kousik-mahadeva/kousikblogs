@@ -39,3 +39,7 @@ params:
         url: "./blogs"
       - name: About Me
         url: myself
+
+  analytics:
+    google:
+      SiteVerificationTag: "G-W2019WRZ7E"
