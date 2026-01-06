@@ -5,7 +5,7 @@ draft = false
 disableMenu = true
 +++
 
-Serendipitously, I got into [this](https://juspay.io/blog/revolutionizing-code-intelligence-how-autotranspiler-ensures-flawless-code-conversion) blog from juspay. It was a time when it was running back-of-my-mind about building the testing system. The blog spoke about transpiling with an automatic verification system using LLM. I was hooked on the automatic verification system. I thought that would solve a puzzle in the testing system
+Serendipitously, I got into [this](https://juspay.io/blog/revolutionizing-code-intelligence-how-autotranspiler-ensures-flawless-code-conversion) blog from juspay. It was a time when it was phase where we were building the testing system. The blog spoke about transpiling with an automatic verification system using LLM. I was hooked on the automatic verification system. I thought that would solve a puzzle in the testing system
 
 **Literatures :**   
 \[Must-Read\] Juspay transpiler (haskell to rust) : [link](https://juspay.io/blog/revolutionizing-code-intelligence-how-autotranspiler-ensures-flawless-code-conversion)  
@@ -29,10 +29,11 @@ Couple of things was clear from all their experiences,
 Overall, I got the notion that it is really hard to implement these for complex languages like java, which nearly require the whole codebase to gain context. 
 
 But surprisingly, Functional Programming guys were able to leverage these LLM techniques. Their main advantage is that you segregate code into pure and side-effects (the language itself is designed in such a way\!).   
+
 Since pure functions had no dependency anywhere else, context to the LLM is only the pure function\! This was leveraged in Juspay where Transpiling was happening for each function (ie, each function was given as context to LLM and asked to do all the manipulations).
 
-While lot of larger languages are multi-paradigm. I feel flexibility might creep-in contextual bugs. Thus, only-functional language makes more sense to me.
+Some of the strong criticism for this idea has been that libraries for FP languages are limited and I should scout rust which gives best of both world.
+This is something I am exploring to find out the truth. Other criticism that even Java has functional ways of writing doesn't work for me.
+Part of problem is as long we have a easy, experienced way to doing a thing. we stick to old ways during tiring times. so, I am skeptical of multi-paradigm languages helping us here. 
 
-This should convince you to jump into functional programming.
-
-
+I will probably start doing some practical work and start posting out here. That's the ultimate test.
