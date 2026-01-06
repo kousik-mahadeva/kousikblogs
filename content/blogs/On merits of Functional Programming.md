@@ -32,8 +32,10 @@ But surprisingly, Functional Programming guys were able to leverage these LLM te
 
 Since pure functions had no dependency anywhere else, context to the LLM is only the pure function\! This was leveraged in Juspay where Transpiling was happening for each function (ie, each function was given as context to LLM and asked to do all the manipulations).
 
-Some of the strong criticism for this idea has been that libraries for FP languages are limited and I should scout rust which gives best of both world.
-This is something I am exploring to find out the truth. Other criticism that even Java has functional ways of writing doesn't work for me.
-Part of problem is as long we have a easy, experienced way to doing a thing. we stick to old ways during tiring times. so, I am skeptical of multi-paradigm languages helping us here. 
+Some of the strong criticism for this idea has been that libraries for FP languages are limited, and that I should scout rust which gives best of both world.
+This is something I am exploring to find out the truth.
+
+Other criticism that even Java has functional ways of writing doesn't work for me.
+Part of problem is that as long we have a easy,experienced way to doing a thing. we stick to old ways during tiring times. I am skeptical of multi-paradigm languages helping us here. 
 
 I will probably start doing some practical work and start posting out here. That's the ultimate test.
